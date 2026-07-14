@@ -106,11 +106,10 @@ The data files (`users.dat`, `portfolio.dat`, `transactions.dat`) are created in
 
 > Placeholders – add your own captures here.
 
-![Dashboard](docs/dashboard.png)
-![Market Tab](docs/market.png)
-![Portfolio Tab](docs/portfolio.png)
-![Transactions Tab](docs/transactions.png)
-![Dark Mode](docs/darkmode.png)
+![Dashboard](Img/dashboard.png)
+![Market](Img/market.png)
+![Portfolio](Img/portfolio.png)
+![Transactions](Img/transactions.png)
 
 ## Future Enhancements
 
